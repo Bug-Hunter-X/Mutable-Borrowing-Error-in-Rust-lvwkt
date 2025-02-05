@@ -1,0 +1,2 @@
+# Mutable Borrowing Error in Rust
+This repository demonstrates a common error in Rust: attempting to have multiple mutable borrows of the same variable.  The code in `bug.rs` will fail to compile due to this error. The corrected code is in `bugSolution.rs`.
